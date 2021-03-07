@@ -1,6 +1,6 @@
 ### Hi there. I'm a Kudu that codes 👋👋👋
 
-I do a bit of Angular, Typscript, Groovy/Java, Frontend stuff work at work. I'm playing around with Python out of hours. Using this account for personal projects and fun. 
+I do a bit of Angular, Typscript, Groovy/Java, React, Frontend stuff work at work. After work I am a bit of a Python hobbyist. Using this account for personal projects and fun. 
 
 - ⚡ Fun fact: It's impossible to tell how many kudu live on a plot of land. They can easily jump fences.
 
